@@ -1,13 +1,13 @@
 <h1 align="center">🛒 Angular E-Commerce Project</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/username/angular-e-commerce?style=for-the-badge">
-  <img src="https://img.shields.io/github/repo-size/username/angular-e-commerce?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/username/angular-e-commerce?style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/top/dev-yuci/Angular-E-Commerce?style=for-the-badge">
+  <img src="https://img.shields.io/github/repo-size/dev-yuci/Angular-E-Commerce?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/dev-yuci/Angular-E-Commerce?style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://your-project-banner.com/banner.png" alt="Project Banner">
+  <img src="https://github.com/dev-yuci/Angular-E-Commerce/blob/master/AngularECommerce-1.png" alt="Project Banner">
 </p>
 
 ## 🌟 **Project Overview**  
@@ -36,8 +36,9 @@ The **Angular E-Commerce Project** is a dynamic online shopping platform develop
 
 ## 📸 **Screenshots**  
 <p align="center">
-  <img src="https://your-screenshot-link.com/screenshot1.png" width="400">
-  <img src="https://your-screenshot-link.com/screenshot2.png" width="400">
+  <img src="https://github.com/dev-yuci/Angular-E-Commerce/blob/master/AngularECommerce-1.png" width="400">
+  <img src="https://github.com/dev-yuci/Angular-E-Commerce/blob/master/AngularECommerce-2.png" width="400">
+  <img src="https://github.com/dev-yuci/Angular-E-Commerce/blob/master/AngularECommerce-3.png" width="400">
 </p>
 
 ---
@@ -48,7 +49,7 @@ Follow these steps to set up and run the project:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/username/angular-e-commerce.git
+git clone https://github.com/dev-yuci/Angular-E-Commerce.git
 
 # 2️⃣ Navigate to the project directory
 cd angular-e-commerce
