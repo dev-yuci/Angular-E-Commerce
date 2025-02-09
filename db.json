@@ -1,0 +1,91 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "imageUrl": "https://productimages.hepsiburada.net/s/499/550/110000551626986.jpg",
+      "name": "Apple MacBook Pro M3 Max 36GB 1TB SSD macOS 16",
+      "stock": 25,
+      "price": 148000,
+      "kdvRate": 10,
+      "categoryId": "1",
+      "category": {
+        "id": "1",
+        "name": "Elektronik"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://www.arcelik.com.tr/media/resize/7148247800_LO1_20220915_151753.png/1000Wx1000H/image.webp",
+      "name": "10120 M Çamaşır Makinesi",
+      "stock": 6,
+      "price": 25829,
+      "kdvRate": 20,
+      "categoryId": "2",
+      "category": {
+        "id": "2",
+        "name": "Beyaz Eşya"
+      },
+      "quantity": 1
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://koctas-img.mncdn.com/mnpadding/600/600/ffffff/productimages/1000518863/1000518863_1_MC/8837994119218_1691071293509.png",
+      "name": "Sandalie Lara 3 1 1 Sehpalı ve Minderli Bahçe Balkon Teras Oturma Grubu Antrasit",
+      "stock": 0,
+      "price": 6799,
+      "kdvRate": 20,
+      "categoryId": "3",
+      "category": {
+        "id": "3",
+        "name": "Bahçe Ürünleri"
+      },
+      "quantity": 1
+    }
+  ],
+  "orders": [],
+  "shoppingCarts": [
+    {
+      "id": "18c0",
+      "productId": "2",
+      "categoryId": "2",
+      "price": 25829,
+      "imageUrl": "https://www.arcelik.com.tr/media/resize/7148247800_LO1_20220915_151753.png/1000Wx1000H/image.webp",
+      "kdvRate": 20,
+      "name": "10120 M Çamaşır Makinesi",
+      "quantity": 1,
+      "category": {
+        "id": "2",
+        "name": "Beyaz Eşya"
+      }
+    },
+    {
+      "id": "b9ad",
+      "productId": "1",
+      "categoryId": "1",
+      "price": 148000,
+      "imageUrl": "https://productimages.hepsiburada.net/s/499/550/110000551626986.jpg",
+      "kdvRate": 10,
+      "name": "Apple MacBook Pro M3 Max 36GB 1TB SSD macOS 16",
+      "quantity": 2,
+      "category": {
+        "id": "1",
+        "name": "Elektronik"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Elektronik"
+    },
+    {
+      "id": "2",
+      "name": "Beyaz Eşya"
+    },
+    {
+      "id": "3",
+      "name": "Bahçe Ürünleri"
+    }
+  ]
+}
